@@ -1,37 +1,81 @@
-## Welcome to GitHub Pages
+吃鸡不再难？
+王者荣耀上分神器？
+原来游戏主播那些技巧这么容易就能实现！
+今天丝姐要来测评的是北通H1游戏手柄
+一起来看看吧~
 
-You can use the [editor on GitHub](https://github.com/Stendhalf/stendhalf.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+外 观
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+手柄黄配黑
+设计很简洁
+眨眼一看平平无奇甚至有点呆萌
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+ALPS摇杆动起来很灵活，按键手感不错
+背面有防滑凸点纹理
+丝姐亲测就算你手汗多到滴下来也不会打滑
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+北通H1游戏手柄是和华为
+荣耀合作的手柄
+EMUI9.0和Magic UI2.0以上的华为、荣耀手机都可以原生适配
+当然，其他安卓苹果的手机也能用
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+手机插进去就能一键连接
+用手柄最大的烦恼就是要和外设匹配
+北通解决了这个问题
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Stendhalf/stendhalf.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+操 作 设 置
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+想畅玩官方正版和平精英游戏
+和手机玩家对战
+只要下载【北通左游游戏厅】APP就可以
+
+
+
+H1最吸引丝姐的地方是支持自定义宏编程
+可以设置一键十枪
+和平精英里有很多单发射手步枪比如SKS、Mini14
+还有大家意难平的连发步枪M16A4
+都能通过这个设置变成全自动步枪
+设置好后当我们长按LT键的时候
+就可以一秒连续打出10枪
+单发瞬间变成自动
+
+
+
+如果懒得设置
+H1还有几套自带的预设键位
+一键就能使用
+
+
+
+比如游戏主播大神常用的一键拜佛枪法
+在游戏过程中长按LB键就能瞬间边趴下边开枪
+这招在贴脸战的时候最好用
+趴下开枪敌人会无法瞄准
+而你还在继续扫射敌人
+
+
+
+还有一键鬼畜摇
+长按LB键能进行快速连续的左右探头并开枪
+很鬼畜
+敌人想要爆头就没那么容易
+还可以嘲讽敌人
+当然，丝姐买手柄不会只为了玩一个游戏
+在王者荣耀里这个手柄能实现一键连招功能~
+助你告别徐坤，爆炸输出，carry全队，登顶王者！
+
+
+
+点击下方小程序
+即可购买北通H1游戏手柄
+快get它
+和丝姐一起轻松上分！
